@@ -1,0 +1,65 @@
+============================================================
+Bluestock Fintech - Data Quality Report
+Day 1: Data Ingestion
+Generated: 06 June 2026 12:05:55
+============================================================
+
+SECTION 1 - DATASET OVERVIEW
+----------------------------------------
+  Dataset                         Rows  Cols  Missing  Dupes
+  ──────────────────────────── ─────── ───── ──────── ──────
+  fund_master                       40    15        0      0
+  nav_history                   46,000     3        0      0
+  aum_by_fund_house                 90     5        0      0
+  monthly_sip_inflows               48     6       12      0
+  category_inflows                 144     3        0      0
+  industry_folio_count              21     6        0      0
+  scheme_performance                40    19        0      0
+  investor_transactions         32,778    13        0      0
+  portfolio_holdings               322     8        0      0
+  benchmark_indices              8,050     3        0      0
+
+  Total rows across all datasets: 87,533
+
+
+SECTION 2 - ANOMALIES FOUND
+----------------------------------------
+
+  fund_master: No issues found
+
+  nav_history: No issues found
+
+  aum_by_fund_house: No issues found
+
+  monthly_sip_inflows: No issues found
+
+  category_inflows: No issues found
+
+  industry_folio_count: No issues found
+
+  scheme_performance: No issues found
+
+  investor_transactions: No issues found
+
+  portfolio_holdings: No issues found
+
+  benchmark_indices: No issues found
+
+
+SECTION 3 - AMFI CODE VALIDATION
+----------------------------------------
+  Coverage     : 100.0%
+  Matched      : 40
+  Missing NAV  : 0
+
+
+SECTION 4 - THINGS TO FIX IN DAY 2
+----------------------------------------
+  1. Convert date columns from text to datetime
+  2. Forward-fill missing NAV values for weekends and holidays
+  3. Remove any duplicate rows found
+  4. Make sure NAV is always greater than 0
+  5. Check expense_ratio is between 0.1 and 2.5 percent
+  6. Standardize transaction types to SIP/Lumpsum/Redemption
+
+============================================================
