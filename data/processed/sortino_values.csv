@@ -1,0 +1,41 @@
+amfi_code,scheme_name,fund_house,category,sortino_ratio,downside_std_ann,negative_days,negative_days_pct
+148567,Mirae Asset Large Cap Fund - Regular - Growth,Mirae Asset MF,Large Cap,2.3856,8.6168,506,44.0
+120843,Kotak Flexicap Fund - Regular - Growth,Kotak Mahindra MF,Flexi Cap,2.3643,8.7806,534,46.5
+148569,Mirae Asset Tax Saver Fund - Regular - Growth,Mirae Asset MF,ELSS,2.1469,10.1663,545,47.4
+119551,SBI Bluechip Fund - Regular Plan - Growth,SBI Mutual Fund,Large Cap,2.1403,7.7576,518,45.1
+120505,ICICI Pru Midcap Fund - Regular - Growth,ICICI Prudential MF,Mid Cap,2.0294,11.218,539,46.9
+149323,DSP Midcap Fund - Regular - Growth,DSP Mutual Fund,Mid Cap,1.8751,10.7145,526,45.8
+118632,Nippon India Large Cap Fund - Regular - Growth,Nippon India MF,Large Cap,1.8501,8.2717,532,46.3
+100033,HDFC Mid-Cap Opportunities Fund - Regular - Growth,HDFC Mutual Fund,Mid Cap,1.8291,11.3229,538,46.8
+120504,ICICI Pru Bluechip Fund - Direct - Growth,ICICI Prudential MF,Large Cap,1.8053,8.1675,517,45.0
+101206,ABSL Frontline Equity Fund - Regular - Growth,Aditya Birla Sun Life MF,Large Cap,1.7996,8.3157,539,46.9
+119094,Axis Midcap Fund - Regular - Growth,Axis Mutual Fund,Mid Cap,1.7038,11.3704,553,48.1
+119598,SBI Small Cap Fund - Regular Plan - Growth,SBI Mutual Fund,Small Cap,1.6753,14.1857,546,47.5
+148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Mirae Asset MF,Large & Mid Cap,1.6327,8.7533,537,46.7
+149324,DSP Small Cap Fund - Regular - Growth,DSP Mutual Fund,Small Cap,1.6198,14.5655,542,47.2
+119552,SBI Bluechip Fund - Direct Plan - Growth,SBI Mutual Fund,Large Cap,1.6098,8.2546,539,46.9
+102885,UTI Nifty 50 Index Fund - Regular - Growth,UTI Mutual Fund,Index,1.4357,7.3055,537,46.7
+120503,ICICI Pru Bluechip Fund - Regular - Growth,ICICI Prudential MF,Large Cap,1.3379,8.2809,545,47.4
+125497,HDFC Top 100 Fund - Direct Plan - Growth,HDFC Mutual Fund,Large Cap,1.3307,8.5522,541,47.1
+118633,Nippon India Large Cap Fund - Direct - Growth,Nippon India MF,Large Cap,1.1545,7.8227,552,48.0
+118635,Nippon India ETF Nifty 50 BeES,Nippon India MF,Index/ETF,1.138,7.5853,552,48.0
+120506,ICICI Pru Value Discovery Fund - Regular - Growth,ICICI Prudential MF,Value,1.0959,9.018,545,47.4
+102887,UTI Flexi Cap Fund - Regular - Growth,UTI Mutual Fund,Flexi Cap,1.0888,8.9667,556,48.4
+120507,ICICI Pru Liquid Fund - Regular - Growth,ICICI Prudential MF,Liquid,1.0521,0.2327,225,19.6
+120841,Kotak Bluechip Fund - Regular - Growth,Kotak Mahindra MF,Large Cap,0.8626,7.715,545,47.4
+149322,DSP Top 100 Equity Fund - Regular - Growth,DSP Mutual Fund,Large Cap,0.7621,8.7396,542,47.2
+118634,Nippon India Small Cap Fund - Regular - Growth,Nippon India MF,Small Cap,0.746,15.1728,554,48.2
+125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,HDFC Mutual Fund,Mid Cap,0.5088,10.8428,548,47.7
+101207,ABSL Small Cap Fund - Regular - Growth,Aditya Birla Sun Life MF,Small Cap,0.2766,15.1683,568,49.4
+119093,Axis Bluechip Fund - Direct - Growth,Axis Mutual Fund,Large Cap,0.2211,8.1979,554,48.2
+120842,Kotak Emerging Equity Fund - Regular - Growth,Kotak Mahindra MF,Mid Cap,0.1247,10.9067,545,47.4
+119092,Axis Bluechip Fund - Regular - Growth,Axis Mutual Fund,Large Cap,0.0526,8.1689,557,48.5
+119599,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,Small Cap,-0.0944,15.1166,567,49.3
+119095,Axis Small Cap Fund - Regular - Growth,Axis Mutual Fund,Small Cap,-0.1282,14.8566,568,49.4
+120844,Kotak Liquid Fund - Regular - Growth,Kotak Mahindra MF,Liquid,-0.1877,0.2427,263,22.9
+102886,UTI Mid Cap Fund - Regular - Growth,UTI Mutual Fund,Mid Cap,-0.3472,10.7501,559,48.7
+100016,HDFC Top 100 Fund - Regular Plan - Growth,HDFC Mutual Fund,Large Cap,-0.351,8.3513,579,50.4
+119120,SBI Magnum Gilt Fund - Regular Plan - Growth,SBI Mutual Fund,Gilt,-0.3768,2.3857,537,46.7
+118636,Nippon India Gilt Securities Fund - Regular - Growth,Nippon India MF,Gilt,-0.6135,2.3167,550,47.9
+100025,HDFC Short Term Debt Fund - Regular - Growth,HDFC Mutual Fund,Short Duration,-0.9418,2.3514,549,47.8
+101208,ABSL Liquid Fund - Regular - Growth,Aditya Birla Sun Life MF,Liquid,-1.681,0.2457,261,22.7
