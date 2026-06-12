@@ -1,0 +1,41 @@
+amfi_code,scheme_name,fund_house,category,risk_category,var_95_pct,cvar_95_pct,var_99_pct,worst_day_pct,best_day_pct,mean_daily_pct,std_daily_pct,total_days
+119599,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,Small Cap,Very High,-268.5944,-323.8412,-360.7821,-454.2895,533.1971,2.0132,157.1026,1149
+119095,Axis Small Cap Fund - Regular - Growth,Axis Mutual Fund,Small Cap,Very High,-261.8842,-316.6729,-342.0323,-483.6706,431.0951,1.8237,157.8359,1149
+101207,ABSL Small Cap Fund - Regular - Growth,Aditya Birla Sun Life MF,Small Cap,Very High,-260.2125,-324.5906,-370.705,-518.4659,548.5085,4.2445,162.4371,1149
+118634,Nippon India Small Cap Fund - Regular - Growth,Nippon India MF,Small Cap,Very High,-254.3811,-323.0407,-354.7599,-581.0201,593.0431,7.0711,158.9374,1149
+119598,SBI Small Cap Fund - Regular Plan - Growth,SBI Mutual Fund,Small Cap,Very High,-245.0705,-305.9526,-334.0308,-451.8049,647.1309,12.0102,158.3018,1149
+149324,DSP Small Cap Fund - Regular - Growth,DSP Mutual Fund,Small Cap,Very High,-234.8307,-310.3625,-367.9003,-488.7007,484.8951,11.9417,156.4105,1149
+102886,UTI Mid Cap Fund - Regular - Growth,UTI Mutual Fund,Mid Cap,High,-192.2028,-232.5086,-254.7152,-366.9489,407.446,1.0981,114.1874,1149
+100033,HDFC Mid-Cap Opportunities Fund - Regular - Growth,HDFC Mutual Fund,Mid Cap,High,-190.3354,-234.5576,-254.4279,-442.3757,419.5391,10.798,119.2381,1149
+120505,ICICI Pru Midcap Fund - Regular - Growth,ICICI Prudential MF,Mid Cap,High,-188.9179,-243.4207,-275.1797,-384.1821,408.1204,11.6132,121.4687,1149
+119094,Axis Midcap Fund - Regular - Growth,Axis Mutual Fund,Mid Cap,High,-184.8028,-242.6006,-275.1376,-407.5478,415.9058,10.267,122.2001,1149
+125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,HDFC Mutual Fund,Mid Cap,High,-183.6532,-230.9379,-250.9832,-452.175,361.9338,4.7686,115.5591,1149
+120842,Kotak Emerging Equity Fund - Regular - Growth,Kotak Mahindra MF,Mid Cap,High,-182.1853,-227.2498,-256.6665,-403.2253,377.3353,3.119,112.677,1149
+149323,DSP Midcap Fund - Regular - Growth,DSP Mutual Fund,Mid Cap,High,-178.8208,-226.0664,-262.5905,-300.9225,419.9462,10.5519,111.7416,1149
+148569,Mirae Asset Tax Saver Fund - Regular - Growth,Mirae Asset MF,ELSS,High,-171.1819,-213.2831,-245.5087,-312.6636,391.7568,11.2405,111.2873,1149
+102887,UTI Flexi Cap Fund - Regular - Growth,UTI Mutual Fund,Flexi Cap,Moderately High,-152.3162,-194.1118,-225.7193,-312.7134,323.8587,6.4534,99.2252,1149
+148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Mirae Asset MF,Large & Mid Cap,Moderately High,-147.1153,-187.6477,-213.5144,-261.2681,314.1504,8.2507,97.1522,1149
+125497,HDFC Top 100 Fund - Direct Plan - Growth,HDFC Mutual Fund,Large Cap,Moderate,-145.9177,-183.0989,-198.1839,-315.0542,284.0736,7.0952,92.365,1149
+120843,Kotak Flexicap Fund - Regular - Growth,Kotak Mahindra MF,Flexi Cap,Moderately High,-145.0794,-183.8108,-201.4795,-297.4809,335.5401,10.8175,100.035,1149
+149322,DSP Top 100 Equity Fund - Regular - Growth,DSP Mutual Fund,Large Cap,Moderate,-144.7385,-184.0175,-194.7094,-366.7647,293.6234,5.2225,90.3815,1149
+120506,ICICI Pru Value Discovery Fund - Regular - Growth,ICICI Prudential MF,Value,Moderately High,-143.8846,-194.049,-220.9079,-332.2958,438.1158,6.5011,95.9015,1149
+100016,HDFC Top 100 Fund - Regular Plan - Growth,HDFC Mutual Fund,Large Cap,Moderate,-143.6364,-180.6021,-203.9222,-247.442,321.4499,1.416,91.6047,1149
+119093,Axis Bluechip Fund - Direct - Growth,Axis Mutual Fund,Large Cap,Moderate,-142.2552,-174.8671,-192.9445,-294.9564,305.5792,3.2986,88.0481,1149
+118632,Nippon India Large Cap Fund - Regular - Growth,Nippon India MF,Large Cap,Moderate,-139.5405,-176.1858,-193.9166,-284.9026,282.1795,8.6523,89.0874,1149
+119092,Axis Bluechip Fund - Regular - Growth,Axis Mutual Fund,Large Cap,Moderate,-137.4959,-173.2787,-202.917,-233.8339,336.2588,2.7498,87.8427,1149
+120504,ICICI Pru Bluechip Fund - Direct - Growth,ICICI Prudential MF,Large Cap,Moderate,-137.2819,-174.9414,-194.1582,-263.1707,312.3366,8.4305,90.4439,1149
+148567,Mirae Asset Large Cap Fund - Regular - Growth,Mirae Asset MF,Large Cap,Moderate,-135.5978,-176.2288,-201.3785,-294.5097,300.249,10.7368,89.373,1149
+120503,ICICI Pru Bluechip Fund - Regular - Growth,ICICI Prudential MF,Large Cap,Moderate,-135.5002,-174.5055,-198.8495,-259.0019,270.6446,6.976,87.4257,1149
+119552,SBI Bluechip Fund - Direct Plan - Growth,SBI Mutual Fund,Large Cap,Moderate,-135.0097,-173.357,-207.1312,-257.753,290.909,7.8524,87.7715,1149
+118633,Nippon India Large Cap Fund - Direct - Growth,Nippon India MF,Large Cap,Moderate,-134.4253,-166.3018,-192.2567,-254.0208,359.1266,6.1631,88.1358,1149
+101206,ABSL Frontline Equity Fund - Regular - Growth,Aditya Birla Sun Life MF,Large Cap,Moderate,-132.8166,-174.3943,-196.4834,-381.2135,339.5599,8.5177,91.7312,1149
+120841,Kotak Bluechip Fund - Regular - Growth,Kotak Mahindra MF,Large Cap,Moderate,-131.4178,-163.6274,-186.3975,-237.7858,285.7954,5.2202,84.777,1149
+119551,SBI Bluechip Fund - Regular Plan - Growth,SBI Mutual Fund,Large Cap,Moderate,-128.4623,-163.9681,-178.7539,-276.7955,350.9621,9.168,86.5252,1149
+102885,UTI Nifty 50 Index Fund - Regular - Growth,UTI Mutual Fund,Index,Moderate,-126.1263,-154.9041,-177.3212,-211.0446,255.6509,6.7416,80.828,1149
+118635,Nippon India ETF Nifty 50 BeES,Nippon India MF,Index/ETF,Moderate,-125.537,-161.7696,-189.415,-254.6598,305.4743,6.0047,81.7506,1149
+119120,SBI Magnum Gilt Fund - Regular Plan - Growth,SBI Mutual Fund,Gilt,Low,-39.3828,-50.1369,-54.6042,-76.9039,81.626,2.2227,24.9793,1149
+118636,Nippon India Gilt Securities Fund - Regular - Growth,Nippon India MF,Gilt,Low,-38.0415,-49.1892,-55.0411,-88.8277,77.0793,2.0153,25.0956,1149
+100025,HDFC Short Term Debt Fund - Regular - Growth,HDFC Mutual Fund,Short Duration,Low,-37.9325,-49.9376,-58.3151,-81.8823,88.3732,1.7005,24.59,1149
+120844,Kotak Liquid Fund - Regular - Growth,Kotak Mahindra MF,Liquid,Low,-2.8479,-4.11,-5.0593,-7.0428,12.5367,2.5613,3.2322,1149
+101208,ABSL Liquid Fund - Regular - Growth,Aditya Birla Sun Life MF,Liquid,Low,-2.6866,-4.2208,-5.2709,-7.66,12.4726,2.4155,3.1889,1149
+120507,ICICI Pru Liquid Fund - Regular - Growth,ICICI Prudential MF,Liquid,Low,-2.2157,-3.7258,-5.0795,-6.6583,11.972,2.6765,3.11,1149
