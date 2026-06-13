@@ -1,0 +1,14 @@
+# config.toml
+# Custom theme for the Bluestock MF Analytics app
+# Blue/teal palette - feels more lively than plain blue/white
+ 
+[theme]
+primaryColor = "#2E86DE"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#EAF4FB"
+textColor = "#1C2B36"
+font = "sans serif"
+ 
+[server]
+headless = true
+ 
