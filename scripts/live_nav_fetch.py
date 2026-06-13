@@ -1,4 +1,9 @@
-# live_nav_fetch.py
+"""
+live_nav_fetch.py
+Bluestock Fintech Capstone Project
+Day 1 - Fetches live NAV history from mfapi.in for 6 schemes
+and saves individual + combined CSV files.
+"""
 # Bluestock Fintech Capstone Project
 # Day 1 - Tasks 4 & 5: Fetch live NAV data from mfapi.in
 # Task 4: HDFC Top 100 Direct (125497)

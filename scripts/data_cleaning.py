@@ -1,4 +1,9 @@
-# data_cleaning.py
+"""
+data_cleaning.py
+Bluestock Fintech Capstone Project
+Day 2 - Cleans all 10 datasets: date parsing, forward-fill,
+deduplication, validation of NAV/amounts/expense ratios.
+"""
 # Bluestock Fintech Capstone Project
 # Day 2 - Tasks 1, 2, 3: Clean all datasets
 # Task 1: nav_history.csv

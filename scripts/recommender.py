@@ -1,4 +1,9 @@
-# recommender.py
+"""
+recommender.py
+Bluestock Fintech Capstone Project
+Day 6 - Simple fund recommendation engine. Matches investor
+risk appetite to top 3 funds by Sharpe ratio within risk grade.
+"""
 # Bluestock Fintech Capstone
 # Day 6 - Task 5: Simple fund recommendation model
 #

@@ -1,4 +1,9 @@
-# data_ingestion.py
+"""
+data_ingestion.py
+Bluestock Fintech Capstone Project
+Day 1 - Loads all 10 CSV datasets, prints shape/dtypes/head,
+explores fund master, and validates AMFI codes.
+"""
 # Bluestock Fintech Capstone Project
 # Day 1 - Task 3: Load all 10 CSV datasets and explore them
 # Written by: Intern, Bluestock Fintech

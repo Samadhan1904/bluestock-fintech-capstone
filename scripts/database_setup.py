@@ -1,4 +1,9 @@
-# database_setup.py
+"""
+database_setup.py
+Bluestock Fintech Capstone Project
+Day 2 - Creates SQLite database from schema.sql, loads cleaned
+CSVs, runs 10 analytical queries, writes data dictionary.
+"""
 # Bluestock Fintech Capstone
 # Day 2 - Tasks 4, 5, 6, 7
 # Creates the SQLite database, loads all cleaned data,
