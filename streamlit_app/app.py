@@ -45,42 +45,144 @@ else:
 
 # apply the colors via CSS - this overrides the static config.toml
 # at runtime so we can switch live without restarting the app
+
 st.markdown(f"""
 <style>
+    /* ── Main app background and text ── */
     .stApp {{
-        background-color: {bg_color};
-        color: {text_color};
+        background-color: {bg_color} !important;
+        color: {text_color} !important;
     }}
-
-    .block-container {{ padding-top: 1.5rem; }}
-
+ 
+    /* ── All text elements ── */
+    .stApp p, .stApp span, .stApp div,
+    .stApp label, .stApp h1, .stApp h2,
+    .stApp h3, .stApp h4, .stApp h5 {{
+        color: {text_color} !important;
+    }}
+ 
+    /* ── Main content area ── */
+    .main .block-container {{
+        padding-top: 1.5rem;
+        background-color: {bg_color} !important;
+    }}
+ 
+    /* ── Metric cards ── */
     div[data-testid="stMetric"] {{
-        background-color: {card_color};
-        border: 1px solid {border_color};
+        background-color: {card_color} !important;
+        border: 1px solid {border_color} !important;
         border-radius: 10px;
         padding: 12px 16px;
     }}
-
-    button[data-baseweb="tab"] {{
-        font-size: 16px;
-        font-weight: 600;
+    div[data-testid="stMetric"] label,
+    div[data-testid="stMetric"] div {{
+        color: {text_color} !important;
     }}
-
+ 
+    /* ── Metric value (the big number) ── */
+    div[data-testid="stMetricValue"] {{
+        color: {accent} !important;
+        font-weight: 700;
+    }}
+ 
+    /* ── Tab labels ── */
+    button[data-baseweb="tab"] {{
+        font-size: 16px !important;
+        font-weight: 600 !important;
+        color: {text_color} !important;
+    }}
+    button[data-baseweb="tab"][aria-selected="true"] {{
+        color: {accent} !important;
+        border-bottom: 3px solid {accent} !important;
+    }}
+ 
+    /* ── Sidebar ── */
+    section[data-testid="stSidebar"] {{
+        background-color: {card_color} !important;
+    }}
+    section[data-testid="stSidebar"] * {{
+        color: {text_color} !important;
+    }}
+ 
+    /* ── Selectbox / dropdown ── */
+    div[data-baseweb="select"] * {{
+        background-color: {card_color} !important;
+        color: {text_color} !important;
+    }}
+ 
+    /* ── Input fields ── */
+    input, textarea {{
+        background-color: {card_color} !important;
+        color: {text_color} !important;
+    }}
+ 
+    /* ── Dataframe / table ── */
+    div[data-testid="stDataFrame"] * {{
+        color: {text_color} !important;
+        background-color: {card_color} !important;
+    }}
+ 
+    /* ── Expander ── */
+    div[data-testid="stExpander"] {{
+        background-color: {card_color} !important;
+        border: 1px solid {border_color} !important;
+    }}
+    div[data-testid="stExpander"] * {{
+        color: {text_color} !important;
+    }}
+ 
+    /* ── Divider ── */
+    hr {{
+        border-color: {border_color} !important;
+    }}
+ 
+    /* ── Recommendation cards ── */
     .rec-card {{
-        background-color: {card_color};
-        border-left: 5px solid {accent};
+        background-color: {card_color} !important;
+        border-left: 5px solid {accent} !important;
         border-radius: 8px;
         padding: 14px 18px;
         margin-bottom: 12px;
-        color: {text_color};
+        color: {text_color} !important;
+    }}
+    .rec-card h4, .rec-card p, .rec-card b {{
+        color: {text_color} !important;
+    }}
+ 
+    /* ── Caption / small text ── */
+    div[data-testid="stCaptionContainer"] p {{
+        color: {text_color} !important;
+        opacity: 0.7;
+    }}
+ 
+    /* ── Checkbox and toggle labels ── */
+    div[data-testid="stCheckbox"] label,
+    div[data-testid="stToggle"] label {{
+        color: {text_color} !important;
+    }}
+ 
+    /* ── Slider ── */
+    div[data-testid="stSlider"] label {{
+        color: {text_color} !important;
     }}
 
-    /* sidebar background */
-    section[data-testid="stSidebar"] {{
-        background-color: {card_color};
+       /* ── Hide the top toolbar white strip in dark mode ── */
+    header[data-testid="stHeader"] {{
+        background-color: {bg_color} !important;
+    }}
+
+    /* ── Make the Deploy button text match theme ── */
+    header[data-testid="stHeader"] * {{
+        color: {text_color} !important;
+    }}
+
+    /* ── Top decoration line ── */
+    div[data-testid="stDecoration"] {{
+        background-color: {bg_color} !important;
     }}
 </style>
 """, unsafe_allow_html=True)
+ 
 
 # ── Paths ─────────────────────────────────────────────────────
 # this file lives in streamlit_app/, so go up one level to project root
